@@ -4,6 +4,7 @@ public class test{
 	{
 		System.out.println("Hello there");
 		System.out.println("Hello there 2");
+		System.out.println("Hello there 22");
 	}
 	
 	
